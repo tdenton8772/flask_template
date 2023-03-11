@@ -1,0 +1,4 @@
+flask
+flask-WTF
+uWSGI
+Flask-Session
